@@ -1,2 +1,12 @@
 /* Your styles go here */
 @import "~bootstrap/dist/css/bootstrap.min.css";
+
+#week11 img{
+   margin: 10px;
+   width: 150px
+
+}
+
+#week11 h1{
+   background-color: darkgrey;
+}
